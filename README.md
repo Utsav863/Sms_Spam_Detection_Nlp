@@ -35,8 +35,6 @@ Bi-LSTM - 98.8%<br>
 LSTM - 98.6%<br>
 ### Streamlit App :
 A Streamlit app has been created to showcase the working of the final model. The app takes a message as input and predicts whether it is ham or spam. The app can be accessed using the following link:<br>
-
-https://deepankarvarma-sms-spam-detection-using-nlp-app-atp0na.streamlit.app/
 <br>
 ### Conclusion :
 In this project, we have built a spam detection system for SMS messages using deep learning techniques in TensorFlow2. Three different architectures have been used to build the spam detection model. The Bi-LSTM model performed the best, with an accuracy of 98.8%. The final model has been deployed as a Streamlit app to showcase its working.
